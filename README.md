@@ -12,7 +12,7 @@ An 8-bit binary counter (0–255) using only 3 Arduino pins via a 74HC595 shift 
 - Arduino Uno
 - 1x 74HC595 Shift Register
 - 8x LED (4x red, 4x blue)
-- 8x 220Ω Resistor
+- 8x 330Ω Resistor
 - Breadboard + Jumper Wires
 
 ### Connections
